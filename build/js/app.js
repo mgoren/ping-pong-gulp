@@ -13,7 +13,7 @@ exports.pingPong = function(goal) {
     }
   }
   return output;
-}
+};
 
 },{}],2:[function(require,module,exports){
 var pingPong = require('../js/ping-pong.js').pingPong;
@@ -37,6 +37,10 @@ $(document).ready(function(){
     $('#signup').hide();
     $('#solution').prepend('<p>Thank you, ' + email + ' has been added to our list!</p>');
   });
+});
+
+$(document).ready(function(){
+  $('#time').text(moment());
 });
 
 },{"../js/ping-pong.js":1}]},{},[2]);
