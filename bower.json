@@ -7,7 +7,7 @@
   ],
   "license": "ISC",
   "moduleType": [],
-  "homepage": "",
+  "homepage": "https://github.com/mgoren/ping-pong-gulp",
   "ignore": [
     "**/.*",
     "node_modules",

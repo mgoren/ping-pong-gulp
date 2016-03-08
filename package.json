@@ -25,5 +25,13 @@
     "jshint": "^2.9.1",
     "vinyl-source-stream": "^1.1.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgoren/ping-pong-gulp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mgoren/ping-pong-gulp/issues"
+  },
+  "homepage": "https://github.com/mgoren/ping-pong-gulp#readme",
   "description": ""
 }
